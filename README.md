@@ -8,8 +8,6 @@ This repo provides a simple guide to installing NodeJS and Docker on a machine r
 ## Docker
 
 ![Logo](https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg)
-Docker telepítése
-
 ```bash
   sh installDocker.sh
 ```
@@ -17,8 +15,6 @@ Docker telepítése
 ## NodeJS v20.11.1 - LTS
 
 ![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png)
-NodeJS telepítése
-
 ```bash
   sh installNode.sh
 ```
