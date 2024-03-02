@@ -7,14 +7,12 @@ Ez a repo egy egyszerű útmutatót nyújt a NodeJS és a Docker telepítéséhe
 This repo provides a simple guide to installing NodeJS and Docker on a machine running a Debian or Ubuntu distribution. The installation only requires a few commands and can be done in less than 5 minutes
 ## Docker
 
-![](https://www.docker.com/wp-content/uploads/2023/08/logo-guide-logos-1.svg | width=128)
 ```bash
   sh installDocker.sh
 ```
     
 ## NodeJS v20.11.1 - LTS
 
-![Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png | width=128)
 ```bash
   sh installNode.sh
 ```
