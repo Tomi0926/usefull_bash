@@ -1,10 +1,7 @@
 #!/bin/bash
 
-# Check if curl is installed
-if ! command -v curl &> /dev/null; then
-  echo "Installing curl..."
-  sudo apt install curl -y  # Use sudo for package management
-fi
+echo "Installing curl..."
+sudo apt install curl -y  # Use sudo for package management
 
 # Download and install nvm (check for existing installation can be added here)
 echo "Downloading and installing nvm..."
