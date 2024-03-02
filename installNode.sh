@@ -1,5 +1,6 @@
 #!/bin/bash
-
+touch ~/.bashrc
+PATH=$PATH:~/bin
 echo "Installing curl..."
 sudo apt install curl -y  # Use sudo for package management
 
